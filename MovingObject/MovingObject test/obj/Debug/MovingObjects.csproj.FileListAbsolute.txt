@@ -1,0 +1,150 @@
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\bin\Debug\MovingObject test.exe.config
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\bin\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\bin\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v1\MovingObject test\obj\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\bin\Debug\MovingObject test.exe.config
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\bin\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\bin\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v2\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\bin\Debug\MovingObject test.exe.config
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\bin\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\bin\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject v3\MovingObject test\obj\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v4\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v5\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v6\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\source\repos\MovingObject v7\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.Cache
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\Desktop\MovingObject v8\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\bin\Debug\Costura.dll
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\bin\Debug\Costura.xml
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObjects.csprojAssemblyReference.cache
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.cache
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\MovingObjects.csproj.CopyComplete
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\skbohmar\source\repos\MovingObject v9\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe.config
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\bin\Debug\Rozloženie operátorov na zmene.pdb
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.AssemblyReference.cache
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObject_test.delete.resources
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObject_test.new.resources
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.GenerateResource.cache
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\MovingObjects.csproj.CopyComplete
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.exe
+C:\Users\Alc\Desktop\MovingObject\MovingObject test\obj\Debug\Rozloženie operátorov na zmene.pdb

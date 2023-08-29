@@ -1,0 +1,26 @@
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\bin\Debug\MovingObject test.exe.config
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\bin\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\bin\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csprojResolveAssemblyReference.cache
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.GenerateResource.Cache
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.CoreCompileInputs.cache
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.exe
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.pdb
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\source\repos\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\bin\Debug\MovingObject test.exe.config
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\bin\Debug\MovingObject test.exe
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\bin\Debug\MovingObject test.pdb
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\bin\Debug\Costura.dll
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\bin\Debug\Costura.xml
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csprojResolveAssemblyReference.cache
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject_test.Form1.resources
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject_test.Properties.Resources.resources
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.GenerateResource.Cache
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.CoreCompileInputs.cache
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.csproj.Fody.CopyLocal.cache
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.exe
+C:\Users\Alc\Desktop\MovingObject test\MovingObject test\obj\Debug\MovingObject test.pdb
